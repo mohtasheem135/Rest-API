@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_USERNAME": "mohtasheem135",
+        "MONGO_ATLAS_PASSWORD" : "mohtasheem"
+    }
+}
